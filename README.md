@@ -67,12 +67,12 @@ VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 4️⃣ Run the Application
 npm run dev
 ```
-
+```
 🌟 Future Enhancements
 ✅ AI-powered job recommendations.
 ✅ Resume builder for students.
 ✅ Integrated real-time chat with recruiters.
-
+```
 
 
 ---
